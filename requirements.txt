@@ -3,7 +3,12 @@ numpy
 scikit-learn
 xgboost
 joblib
-flask
-streamlit
+fastapi
+uvicorn[standard]
+requests
+apscheduler
 shap
-python-dateutil
+transformers
+torch
+streamlit
+python-dotenv
